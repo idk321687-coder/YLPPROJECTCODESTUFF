@@ -1,0 +1,32 @@
+# Unreal Engine
+Build/
+Saved/
+Binaries/
+DerivedDataCache/
+Intermediate/
+
+# Visual Studio
+.vs/
+*.sln
+*.VC.db
+*.VC.opendb
+
+# Build files
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Logs
+*.log
+
+# Cesium cache
+cesium-request-cache.sqlite
+cesium-request-cache.sqlite-shm
+cesium-request-cache.sqlite-wal
+
+# OS files
+Thumbs.db
+Desktop.ini
